@@ -7,6 +7,6 @@ KEKEKEKKEKEEKKEEKKE
 ## Deployment
 HIIHIHIHIHIHIHIHIH
 ## How To Contribute
-
+Please fork this repository and then issue Pull Request
 ##Copyright
 2024 Git.Training
