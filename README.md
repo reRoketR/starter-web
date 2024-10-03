@@ -7,3 +7,6 @@ KEKEKEKKEKEEKKEEKKE
 ## Deployment
 HIIHIHIHIHIHIHIHIH
 ## How To Contribute
+
+##Copyright
+2024 Git.Training
